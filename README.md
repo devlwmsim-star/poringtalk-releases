@@ -36,3 +36,9 @@
 ## 지우기
 
 Windows **설정 → 앱 → 설치된 앱 → 포링톡 → 제거**
+
+## 약관 · 개인정보 · 문의
+
+- [이용약관 · 커뮤니티 규칙](TERMS.md)
+- [개인정보처리방침](PRIVACY.md)
+- 문의·오류 제보: [GitHub 이슈](https://github.com/devlwmsim-star/poringtalk-releases/issues) (공개 게시판이니 개인정보는 적지 말아 주세요)
